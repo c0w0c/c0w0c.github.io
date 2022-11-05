@@ -1,2 +1,1 @@
-# c0w0c.github.io
-about c0w0c
+# [c0w0c](aboutMe.md)
