@@ -52,3 +52,8 @@
   - redis
   - rabbitMQ
   - postgresql
+  - SQLite
+- 其他
+  - Docker
+  - TCP / UDP
+  - Git
