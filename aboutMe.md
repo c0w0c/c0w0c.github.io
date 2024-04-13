@@ -2,7 +2,7 @@
 
 ## 現況
 
-奔三過半的後端躬成屍，當過開發人員、專案管理員、技術主管，目前還在碼海中浮浮沈沈，潛心研究嵌入式系統軟體開發中。
+奔三過半的後端躬成屍，經歷開發人員、專案管理員、技術主管等階段，目前潛心研究開發嵌入式系統中。
 
 ## 專長
 
@@ -21,17 +21,24 @@
 - 交友軟體
 - 通訊軟體
 - 敲鐘廣播系統
-- 聲音串流系統
+- 純音訊串流系統
 - 視訊流管理系統
+- 網路攝影機控制系統
+- 整合性環境控制系統
 
 ## 熟悉工具
 
 - 程式語言
-  - nodejs
+  - shell
+    - bash
+    - except
+  - c++
+  - nodejs(TypeScript)
     - websocket
     - express
     - vue
       - vuetify
+      - quasar
 - pi 板
   - raspberry pi
   - rock pi
@@ -41,7 +48,6 @@
   - debian
 - 資料庫
   - mySQL
-  - mongoDB
   - redis
   - rabbitMQ
   - postgresql
